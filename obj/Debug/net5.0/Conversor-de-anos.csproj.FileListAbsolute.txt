@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\Conversor-de-anos.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\Conversor-de-anos.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\Conversor-de-anos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\Conversor-de-anos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\Conversor-de-anos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\ref\Conversor-de-anos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\bin\Debug\net5.0\Conversor-de-anos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\ref\Conversor-de-anos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Conversor-de-anos\obj\Debug\net5.0\Conversor-de-anos.genruntimeconfig.cache
